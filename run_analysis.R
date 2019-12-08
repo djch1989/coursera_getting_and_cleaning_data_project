@@ -1,3 +1,4 @@
+library(dplyr)
 filename <- "Coursera_Getting_And_Cleaning_Data_Project.zip"
 
 # Checking if archive already exists.
